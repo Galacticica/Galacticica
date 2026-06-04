@@ -59,5 +59,3 @@ jobs:
               "Bug fixes": ["bug/*", "fix/*", "hotfix/*"],
               "Documentation": ["doc/*", "docs/*"]
             }
-          plugin_repositories: yes
-          plugin_repositories_order: featured, pinned, starred, random
