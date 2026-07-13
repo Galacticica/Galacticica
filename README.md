@@ -34,11 +34,11 @@
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
 
 ## Databases
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+[![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/?trk=50b671a1-06f5-4224-9505-fa45ee881c08&sc_channel=ps&ef_id=CjwKCAjwmdLSBhANEiwAkREMNxCuLDSLfEIx4cZIar9ycvKpf643O3LLRkn3mpzF0Ohg-WP03yk18RoCOcQQAvD_BwE&gads_camp=23522747487&gads_ag=196433733807&gads_ad=808868439763&gads_kw=amazon%20s3&gads_matchtype=e&gads_network=g&gads_device=c&gads_geo=9017947&gad_campaignid=23522747487&gbraid=0AAAAADjHtp8Ou7nFMQYeD0TSTFl1yuM3a&gclid=CjwKCAjwmdLSBhANEiwAkREMNxCuLDSLfEIx4cZIar9ycvKpf643O3LLRkn3mpzF0Ohg-WP03yk18RoCOcQQAvD_BwE)
+[![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/sqldeveloper/)
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/)
 
 ## Cloud & DevOps
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
