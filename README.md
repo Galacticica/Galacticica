@@ -41,16 +41,16 @@
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/)
 
 ## Cloud & DevOps
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![Choreo](https://img.shields.io/badge/Choreo-00B8D9?style=for-the-badge)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Fly.io](https://img.shields.io/badge/Fly.io-8636EA?style=for-the-badge&logo=flydotio&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+[![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)](https://aws.amazon.com/pm/lambda/?trk=2abe6167-e3db-40c4-a9fa-b283e7b4d7c8&sc_channel=ps&ef_id=CjwKCAjwmdLSBhANEiwAkREMNwmTnch40l7rHVmjyuGuveoeGfTdyMr6cxjZ6U5TKdgzsODT1C4WVhoCCSUQAvD_BwE&gads_camp=23527793912&gads_ag=191938386622&gads_ad=802094701896&gads_kw=amazon%20lambda&gads_matchtype=e&gads_network=g&gads_device=c&gads_geo=9017947&gad_campaignid=23527793912&gbraid=0AAAAADjHtp_E6j8pnFrz2h-J70GMkpHDF&gclid=CjwKCAjwmdLSBhANEiwAkREMNwmTnch40l7rHVmjyuGuveoeGfTdyMr6cxjZ6U5TKdgzsODT1C4WVhoCCSUQAvD_BwE)
+[![Choreo](https://img.shields.io/badge/Choreo-00B8D9?style=for-the-badge)](https://console.choreo.dev/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Fly.io](https://img.shields.io/badge/Fly.io-8636EA?style=for-the-badge&logo=flydotio&logoColor=white)](https://fly.io/)
+[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
+[![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
+[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![NAS Server Hosting](https://img.shields.io/badge/NAS%20Hosting-%23222222.svg?style=for-the-badge&logo=synology&logoColor=white)](https://ai.ugreen.com/products/ugreen-nasync-dxp2800-nas-storage)
 
 ## AI Tools
