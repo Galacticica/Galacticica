@@ -54,21 +54,21 @@
 [![NAS Server Hosting](https://img.shields.io/badge/NAS%20Hosting-%23222222.svg?style=for-the-badge&logo=synology&logoColor=white)](https://ai.ugreen.com/products/ugreen-nasync-dxp2800-nas-storage)
 
 ## AI Tools
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai/new)
+[![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/)
+[![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)](https://github.com/features/copilot?utm_source=google&utm_medium=sem&utm_campaign=copilot-brand&ef_id=_k_CjwKCAjwmdLSBhANEiwAkREMN6awxJVxbw9ZgTYOVQ48sbtSvGc44KYhiMozQYJiYlRk0AAfXQO7ARoCKzcQAvD_BwE_k_&OCID=AIDcmmsugg7h5w_SEM__k_CjwKCAjwmdLSBhANEiwAkREMN6awxJVxbw9ZgTYOVQ48sbtSvGc44KYhiMozQYJiYlRk0AAfXQO7ARoCKzcQAvD_BwE_k_&gad_source=1&gad_campaignid=23238727906&gbraid=0AAAAADcJh_v3eJK8BKq8ZWsx4hdupuoZj&gclid=CjwKCAjwmdLSBhANEiwAkREMN6awxJVxbw9ZgTYOVQ48sbtSvGc44KYhiMozQYJiYlRk0AAfXQO7ARoCKzcQAvD_BwE)
 
 ## Tools & Software
-![Agvance](https://img.shields.io/badge/Agvance-2E7D32?style=for-the-badge)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Drawio](https://img.shields.io/badge/drawio-%23F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![Agvance](https://img.shields.io/badge/Agvance-2E7D32?style=for-the-badge)](https://agvance.net/)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
+[![Drawio](https://img.shields.io/badge/drawio-%23F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)](https://www.drawio.com/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Jellyfin](https://img.shields.io/badge/Jellyfin-%23000B25.svg?style=for-the-badge&logo=jellyfin&logoColor=00A4DC)](https://jellyfin.org/)
-![Lucidchart](https://img.shields.io/badge/Lucidchart-F97B2C?style=for-the-badge)
-![Salesforce](https://img.shields.io/badge/Salesforce-blue?style=for-the-badge&logo=salesforce&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+[![Lucidchart](https://img.shields.io/badge/Lucidchart-F97B2C?style=for-the-badge)](https://lucid.co/lucidchart)
+[![Salesforce](https://img.shields.io/badge/Salesforce-blue?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-US&gl=US)
+[![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
 
 ## Office & Productivity
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)
